@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Front-End-Technologies-labs-react/static/css/main.f24ec094.css",
+    "main.js": "/Front-End-Technologies-labs-react/static/js/main.612b25f6.js",
+    "index.html": "/Front-End-Technologies-labs-react/index.html",
+    "main.f24ec094.css.map": "/Front-End-Technologies-labs-react/static/css/main.f24ec094.css.map",
+    "main.612b25f6.js.map": "/Front-End-Technologies-labs-react/static/js/main.612b25f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f24ec094.css",
+    "static/js/main.612b25f6.js"
+  ]
+}
